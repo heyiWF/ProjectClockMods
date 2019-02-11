@@ -46,7 +46,7 @@
             android:layout_height="wrap_content"
             android:textSize="15sp"
             android:textColor="#000"
-            android:text="字体大小显示"
+            android:text="字体大小"
             android:layout_weight="1"
             android:layout_gravity="right"
             android:gravity="center_vertical"/>
